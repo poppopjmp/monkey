@@ -66,7 +66,7 @@
     "fetch": "^1.1.0",
     "js-file-download": "^0.4.1",
     "normalize.css": "^4.0.0",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.8.1",
     "rc-progress": "^2.2.5",
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.2",
