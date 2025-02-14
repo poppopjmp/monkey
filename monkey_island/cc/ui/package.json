@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "core-js": "^2.5.1",
+    "core-js": "^2.6.12",
     "fetch": "^1.1.0",
     "js-file-download": "^0.4.1",
     "normalize.css": "^4.0.0",
